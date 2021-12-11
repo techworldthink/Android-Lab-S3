@@ -1,0 +1,15 @@
+/Experiment_1/*.iml
+/Experiment_1/.gradle
+/Experiment_1//local.properties
+/Experiment_1//.idea/caches
+/Experiment_1//.idea/libraries
+/Experiment_1//.idea/modules.xml
+/Experiment_1//.idea/workspace.xml
+/Experiment_1//.idea/navEditor.xml
+/Experiment_1//.idea/assetWizardSettings.xml
+/Experiment_1/.DS_Store
+/Experiment_1//build
+/Experiment_1//captures
+/Experiment_1/.externalNativeBuild
+/Experiment_1/.cxx
+/Experiment_1/local.properties
